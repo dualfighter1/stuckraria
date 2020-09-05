@@ -1,0 +1,118 @@
+Stuckraria is an all new terraria mode with homestuck stuff.
+
+Developers:
+
+ Coders:
+
+  Dualfighter1
+  Shou
+
+ Music editors:
+
+ Sprite workers:
+
+  Dualfighter1
+
+ Supporters:
+
+  Lalazwayiero
+
+Github
+
+https://github.com/dualfighter1/stuckraria
+
+I dont own anything in Homestuck i am just merely here to port it all to Terraria.
+Homestuck belongs to Andrew Hussie.
+
+Update log
+
+0.1  08/24/2020
+
+Mod created
+
+0.2  08/24/2020 - 08/28/2020
+
+Grist types:
+ build grist added
+ flame grist
+ uranium grist
+ shale added
+ cobalt grist addded
+ ruby grist added
+ emerald grist added
+ agate grist added
+ void grist added
+ blank grist cart added
+ sapphire grist added
+ meat grist added
+ candy grist added
+ miracle grist added
+
+Items:
+ the comprehensive guide on how to turn tools into weapons added
+
+Weapons:
+ sord added
+ 1/3 claw kind added - shou
+ xylium blade added - dualfighter1
+
+0.3  08/28/2020 - 08/29/2020
+
+Patches:
+
+ Items description updated:
+
+  1/3 claw kind
+  xylium blade
+
+ Items crafitng recipe changes:
+
+  sord
+  xylium blade
+
+ Weapons damage increased:
+
+  xylium blade
+
+Grist types:
+ dorito grist added
+ ocean grist added
+ darkness grist added
+ creation grist added
+ destruction grist added
+ tar added
+ marble added
+ magma added
+ gold added
+ oraoraoraangngngngng added
+ iodine added
+
+Items:
+ homestuck book 1 added
+ Illithium bar added
+
+Enemys:
+ shale pinata added
+ grist pinata added
+
+0.4 08/29/2020 - //2020
+
+patches:
+
+ sprite cleanup
+
+grist types
+
+ carnelian grist added
+ silver added
+
+0.4.5
+
+item changes:
+
+ darkness grist turned to obolisk grist
+
+grist types:
+
+ dark grist added
+ light grist added
