@@ -3,21 +3,22 @@ using Terraria.ModLoader;
 
 namespace stuckraria.Items.weapons
 {
-	public class onethreeclawkind: ModItem
+	public class scarletribit: ModItem
 	{
 		public override void SetStaticDefaults() 
 		{
-			DisplayName.SetDefault("1/3 claw kind");
-			Tooltip.SetDefault("This has a smell of fire and cavepaints.          developer item: shou");
+			DisplayName.SetDefault("scarlet ribbitar");
+			Tooltip.SetDefault("a legendary sword made of illegal ingrediants");
 		}
 
 		public override void SetDefaults() 
 		{
-			item.damage = 160;
+			item.damage = 100;
 			item.melee = true;
-			item.width = 80;
-			item.height = 80;
-			item.useAnimation = 1;
+			item.width = 40;
+			item.height = 40;
+			item.useTime = 20;
+			item.useAnimation = 20;
 			item.useStyle = 1;
 			item.knockBack = 6;
 			item.value = 10000;
@@ -31,9 +32,9 @@ namespace stuckraria.Items.weapons
 		{
 			ModRecipe recipe = new ModRecipe(mod);
                         recipe.AddIngredient(ModContent.ItemType<buildgrist>(), 200);
+                        recipe.AddIngredient(ModContent.ItemType<rubygrist>(), 200);
                         recipe.AddIngredient(ModContent.ItemType<shale>(), 100);
-                        recipe.AddIngredient(ModContent.ItemType<clawkindcrux>(), 1);
-			recipe.AddTile(mod.GetTile("totemlathe"));
+			recipe.AddTile(mod.GetTile("megacrafter"));
 			recipe.SetResult(this);
 			recipe.AddRecipe();
 		}
