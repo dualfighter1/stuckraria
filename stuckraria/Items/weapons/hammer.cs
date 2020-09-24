@@ -8,7 +8,7 @@ namespace stuckraria.Items.weapons
 		public override void SetStaticDefaults() 
 		{
 			DisplayName.SetDefault("hammer");
-			Tooltip.SetDefault("used in the legendary duel of the cakes");
+			Tooltip.SetDefault("Used in the legendary duel of the cakes");
 		}
 
 		public override void SetDefaults() 

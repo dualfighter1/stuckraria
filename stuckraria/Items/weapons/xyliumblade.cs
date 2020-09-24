@@ -7,8 +7,8 @@ namespace stuckraria.Items.weapons
 	{
 		public override void SetStaticDefaults() 
 		{
-			DisplayName.SetDefault("xylium blade");
-			Tooltip.SetDefault("this thing pulses with a strong power of the end.           developer weapon: dualfighter1");
+			DisplayName.SetDefault("Xylium Blade");
+			Tooltip.SetDefault("This thing pulses with a strong power of the end.\nDeveloper item: Dualfighter1"); // Weapon changed to item for consistency
 		}
 
 		public override void SetDefaults() 
