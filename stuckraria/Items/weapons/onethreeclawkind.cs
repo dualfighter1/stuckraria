@@ -7,17 +7,17 @@ namespace stuckraria.Items.weapons
 	{
 		public override void SetStaticDefaults() 
 		{
-			DisplayName.SetDefault("1/3 claw kind");
-			Tooltip.SetDefault("This has a smell of fire and cavepaints.          developer item: shou");
+			DisplayName.SetDefault("1/3 Claw Kind");
+			Tooltip.SetDefault("Smells of fire and parietal art.\nDeveloper item: Shou");
 		}
 
 		public override void SetDefaults() 
 		{
 			item.damage = 160;
 			item.melee = true;
-			item.width = 80;
-			item.height = 80;
-			item.useAnimation = 1;
+			item.width = 65;
+			item.height = 65;
+			item.useAnimation = 5; //For comparison, the Fetid Baghnakhs have an Use Time of 8.
 			item.useStyle = 1;
 			item.knockBack = 6;
 			item.value = 10000;
